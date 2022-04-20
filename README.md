@@ -18,3 +18,30 @@ mi zona de trabajo tiene que estar limpia, y entragar mi trabajo a tiempo que se
 
 </body>
 </html>
+<html>
+<body bgcolor="gray">
+<div align="center"</div>
+<h1>Nombre completo:Frida Tobias Sanchez</h1>
+<h1>Carrera:Ingeneria en tecnologias de la informacion</h1>
+<h1>Puesto que busco:Desarrollador de Software</h1>
+<h1>Habilidades que manejo:Edicion de videos y fotos , Base de datos
+<h1><FONT SIZE="+3">FORMACION ACADEMICA</FONT></h1>
+<h1>Primaria:Ford#13- 2007/2013</h1>
+<h1>Telesecundaria:Juan del villatoro- 2013/2016</h1>
+<h1>Bachillerato:Cbtis 105- 2016/2019</h1>
+<h1>Universidad:Politecnica de Altamira- 2019/</h1>
+
+<h1><FONT SIZE="+3">EXPERIENCIA PROFESIONAL</FONT></h1>
+<h1>Trabajo:Dos años trabajando de atencion para clientes en la empresa TELCEL</h1>
+
+<h1><FONT SIZE="+3">IDIOMAS</FONT></h1>
+<h1>-Español</FONT></h1>
+<h1>-Ingles nivel medio</h1>
+
+<h1><FONT SIZE="+3">CONTACTO</FONT></h1>
+<h1>Numero de celular:8332034252</h1>
+<h1>Correo electronico:fridaatobias@gmail.com</h1>
+
+
+</body>
+</html>
